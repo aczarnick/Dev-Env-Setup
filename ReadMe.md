@@ -8,5 +8,5 @@ This repo holds notable software I use for doing development as well as installa
 * VS Code
 * Visual Studio ( 2022 )
     * all the packages, eventhough I'll never use them
-* Powershell
+* Powershell 7 ( the universal one )
 * Docker
